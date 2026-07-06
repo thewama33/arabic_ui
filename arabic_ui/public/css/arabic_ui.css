@@ -1,0 +1,83 @@
+@font-face {
+	font-family: 'Tajawal';
+	src: url('/assets/arabic_ui/fonts/tajawal/Tajawal-ExtraLight.ttf') format('truetype');
+	font-weight: 200;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Tajawal';
+	src: url('/assets/arabic_ui/fonts/tajawal/Tajawal-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Tajawal';
+	src: url('/assets/arabic_ui/fonts/tajawal/Tajawal-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Tajawal';
+	src: url('/assets/arabic_ui/fonts/tajawal/Tajawal-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Tajawal';
+	src: url('/assets/arabic_ui/fonts/tajawal/Tajawal-Bold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Tajawal';
+	src: url('/assets/arabic_ui/fonts/tajawal/Tajawal-ExtraBold.ttf') format('truetype');
+	font-weight: 800;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Tajawal';
+	src: url('/assets/arabic_ui/fonts/tajawal/Tajawal-Black.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+html[lang="ar"] body,
+html[lang="ar"] .navbar,
+html[lang="ar"] .page-container,
+html[lang="ar"] .frappe-control,
+html[lang="ar"] .modal,
+html[lang="ar"] .sidebar,
+html[lang="ar"] .desk-sidebar,
+html[lang="ar"] .standard-actions,
+html[lang="ar"] input,
+html[lang="ar"] textarea,
+html[lang="ar"] select,
+html[lang="ar"] button,
+html[lang="ar"] .btn,
+html[lang="ar"] h1,
+html[lang="ar"] h2,
+html[lang="ar"] h3,
+html[lang="ar"] h4,
+html[lang="ar"] h5,
+html[lang="ar"] h6,
+html[lang="ar"] p,
+html[lang="ar"] span,
+html[lang="ar"] a,
+html[lang="ar"] label,
+html[lang="ar"] .like-disabled-input,
+html[lang="ar"] .control-value {
+	font-family: 'Tajawal', sans-serif !important;
+}

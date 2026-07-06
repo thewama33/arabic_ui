@@ -29,7 +29,7 @@ use_json_request_body = True
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/arabic_ui/css/arabic_ui.css"
+app_include_css = "/assets/arabic_ui/css/arabic_ui.css"
 # app_include_js = "/assets/arabic_ui/js/arabic_ui.js"
 
 # include js, css files in header of web template
