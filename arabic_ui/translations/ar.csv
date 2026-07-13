@@ -9512,3 +9512,30 @@ Read, قرأه
 xlsx,xlsx 
 Stock Entry Type , نوع حركة المخزون
 Upload, رفع
+Stock entry type, نوع قيد المخزون
+Excel,اكسيل
+Work Order, أمر العمل
+Production Plan, خطة الإنتاج
+Stock Entry, قيد المخزون
+Job Card, بطاقة الوظيفة
+Downtime Entry,دخول وقت التوقف عن العمل
+Assets, الأصول
+Home,الرئيسية
+Accounting,المحاسبة
+Receivables,الذمم المدينة
+Payables,الذمم الدائنة
+Financial Reports,التقارير المالية
+Buying,المشتريات
+Stock,المخزون
+Selling,المبيعات
+Manufacturing,التصنيع
+Projects,المشاريع
+Quality,الجودة
+Users,المستخدمون
+Support,الدعم
+CRM,إدارة علاقات العملاء
+Website,الموقع الإلكتروني
+Tools,الأدوات
+Next Integrations,تكاملات Next
+Integrations,التكاملات
+Build,التطوير
