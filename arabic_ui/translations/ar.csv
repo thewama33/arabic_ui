@@ -2602,7 +2602,6 @@ Sub Type,النوع الفرعي,
 Sub-contracting,التعاقد من الباطن,
 Subcontract,قام بمقاولة فرعية,
 Subject,موضوع,
-Submit,تسجيل,
 Submit this Work Order for further processing.,أرسل طلب العمل هذا لمزيد من المعالجة.,
 Subscription,اشتراك,
 Subscription Management,إدارة الاشتراك,
@@ -2914,7 +2913,7 @@ Update in progress. It might take a while.,التحديث قيد التقدم. �
 Update rate as per last purchase,معدل التحديث حسب آخر عملية شراء,
 Update stock must be enable for the purchase invoice {0},يجب تمكين مخزون التحديث لفاتورة الشراء {0},
 Updating Variants...,جارٍ تحديث المتغيرات ...,
-Upload your letter head and logo. (you can edit them later).,تحميل رئيس رسالتكم والشعار. (يمكنك تحريرها لاحقا).,
+Upload your letter head and logo. (you can edit them later).,رفع رئيس رسالتكم والشعار. (يمكنك تحريرها لاحقا).,
 Upper Income,أعلى دخل,
 Use Sandbox,استخدام ساندبوكس,
 User,المستعمل,
@@ -3742,8 +3741,8 @@ Unreconciled,لم تتم تسويتها,
 Unsupported GST Category for E-Way Bill JSON generation,فئة GST غير مدعومة لتوليد Bill JSON الإلكتروني,
 Update,تحديث,
 Update Taxes for Items,تحديث الضرائب للعناصر,
-"Upload a bank statement, link or reconcile a bank account",قم بتحميل كشف حساب بنكي أو ربط أو تسوية حساب بنكي,
-Upload a statement,تحميل بيان,
+"Upload a bank statement, link or reconcile a bank account",قم برفع كشف حساب بنكي أو ربط أو تسوية حساب بنكي,
+Upload a statement,رفع بيان,
 Use a name that is different from previous project name,استخدم اسمًا مختلفًا عن اسم المشروع السابق,
 User {0} is disabled,المستخدم {0} تم تعطيل,
 Users and Permissions,المستخدمين والصلاحيات,
@@ -3805,7 +3804,6 @@ Download,تحميل,
 Left,ترك,
 Link,حلقة الوصل,
 New,جديد,
-Print,طباعة,
 Reference Name,اسم الإشارة,
 Refresh,تحديث,
 Success,نجاح,
@@ -6611,7 +6609,7 @@ JSON Output,JSON الإخراج,
 Invoices with no Place Of Supply,فواتير مع عدم وجود مكان التموين,
 Import Supplier Invoice,استيراد فاتورة المورد,
 Invoice Series,سلسلة الفاتورة,
-Upload XML Invoices,تحميل فواتير XML,
+Upload XML Invoices,رفع فواتير XML,
 Zip File,ملف مضغوط,
 Import Invoices,استيراد الفواتير,
 Click on Import Invoices button once the zip file has been attached to the document. Any errors related to processing will be shown in the Error Log.,انقر على زر استيراد الفواتير بمجرد إرفاق الملف المضغوط بالوثيقة. سيتم عرض أي أخطاء متعلقة بالمعالجة في سجل الأخطاء.,
@@ -7290,7 +7288,6 @@ Out of AMC,من AMC,
 Warranty Period (Days),فترة الضمان (أيام),
 Serial No Details,تفاصيل المسلسل,
 MAT-STE-.YYYY.-,MAT-STE-.YYYY.-,
-Stock Entry Type,نوع إدخال الأسهم,
 Stock Entry (Outward GIT),إدخال الأسهم (GIT للخارج),
 Material Consumption for Manufacture,اهلاك المواد للتصنيع,
 Repack,أعد حزم,
@@ -8741,7 +8738,6 @@ Is Mandatory,إلزامي,
 WhatsApp,ال WhatsApp,
 Make a call,إجراء مكالمة,
 Approve,وافق,
-Reject,رفض,
 % Returned,% تم إرجاعه,
 About Us Settings,إعدادات صفحة من نحن,
 About {0} minute remaining,حوالي {0} دقيقة متبقية,
@@ -9496,3 +9492,23 @@ HR Setup, إعداد الموارد البشرية
 Tenure, مدة الخدمة
 ERPNext, ITQAN
 Frappe, ITQAN
+Submit, اعتماد 
+Draft, مسودة
+Confirm, تاكيد
+Print, طباعة
+Submit, اعتماد 
+Build, انشاء
+Send for approval,إرسال للموافقة 
+Reject, رفض 
+Approve and Issue,اعتماد وصرف
+Filter, تصفيه
+Material Request , طلب مواد  
+Stock Entry , حركه المخزون 
+Stock, المخزون
+ID,Id
+User, المستخدم
+Users, المستخدمين
+Read, قرأه
+xlsx,xlsx 
+Stock Entry Type , نوع حركة المخزون
+Upload, رفع
