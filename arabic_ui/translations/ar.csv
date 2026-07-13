@@ -9492,50 +9492,48 @@ HR Setup, إعداد الموارد البشرية
 Tenure, مدة الخدمة
 ERPNext, ITQAN
 Frappe, ITQAN
-Submit, اعتماد 
-Draft, مسودة
-Confirm, تاكيد
-Print, طباعة
-Submit, اعتماد 
-Build, انشاء
-Send for approval,إرسال للموافقة 
-Reject, رفض 
-Approve and Issue,اعتماد وصرف
-Filter, تصفيه
-Material Request , طلب مواد  
-Stock Entry , حركه المخزون 
-Stock, المخزون
-ID,Id
-User, المستخدم
-Users, المستخدمين
-Read, قرأه
-xlsx,xlsx 
-Stock Entry Type , نوع حركة المخزون
-Upload, رفع
-Stock entry type, نوع قيد المخزون
-Excel,اكسيل
-Work Order, أمر العمل
-Production Plan, خطة الإنتاج
-Stock Entry, قيد المخزون
-Job Card, بطاقة الوظيفة
-Downtime Entry,دخول وقت التوقف عن العمل
-Assets, الأصول
-Home,الرئيسية
-Accounting,المحاسبة
-Receivables,الذمم المدينة
-Payables,الذمم الدائنة
-Financial Reports,التقارير المالية
-Buying,المشتريات
-Stock,المخزون
-Selling,المبيعات
-Manufacturing,التصنيع
-Projects,المشاريع
-Quality,الجودة
-Users,المستخدمون
-Support,الدعم
-CRM,إدارة علاقات العملاء
-Website,الموقع الإلكتروني
-Tools,الأدوات
-Next Integrations,تكاملات Next
-Integrations,التكاملات
-Build,التطوير
+Submit,اعتماد,
+Draft,مسودة,
+Confirm,تاكيد,
+Print,طباعة,
+Send for approval,إرسال للموافقة,
+Reject,رفض,
+Approve and Issue,اعتماد وصرف,
+Filter,تصفيه,
+Material Request,طلب مواد,
+Stock Entry,حركه المخزون,
+Stock,المخزون,
+ID,Id,
+User,المستخدم,
+Users,المستخدمين,
+Read,قرأه,
+xlsx,xlsx,
+Stock Entry Type,نوع حركة المخزون,
+Upload,رفع,
+Stock entry type,نوع قيد المخزون,
+Excel,اكسيل,
+Work Order,أمر العمل,
+Production Plan,خطة الإنتاج,
+Stock Entry,قيد المخزون,
+Job Card,بطاقة الوظيفة,
+Downtime Entry,دخول وقت التوقف عن العمل,
+Assets,الأصول,
+Home,الرئيسية,
+Accounting,المحاسبة,
+Receivables,الذمم المدينة,
+Payables,الذمم الدائنة,
+Financial Reports,التقارير المالية,
+Buying,المشتريات,
+Stock,المخزون,
+Selling,المبيعات,
+Manufacturing,التصنيع,
+Projects,المشاريع,
+Quality,الجودة,
+Users,المستخدمون,
+Support,الدعم,
+CRM,إدارة علاقات العملاء,
+Website,الموقع الإلكتروني,
+Tools,الأدوات,
+ERPNext Integrations,تكاملات ERPNext,
+Integrations,التكاملات,
+Build,التطوير,
